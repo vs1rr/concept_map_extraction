@@ -36,7 +36,6 @@ pip install coreferee python -m coreferee install en
 ```python
 import nltk
 nltk.download('punkt')
-nltk.download('wordnet')
 ```
 
 ### Running the Pipeline
